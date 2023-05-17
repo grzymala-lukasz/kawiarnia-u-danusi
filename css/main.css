@@ -84,7 +84,7 @@ body{
 
 .hero-img{
     position: relative;
-    background-image: url('./img/pexels-igor-ovsyannykov-205961\ \(1\).jpg');
+    background-image: url('/grzymala-lukasz/img/pexels-igor-ovsyannykov-205961 (1).jpg.');
     height: 700px;
     background-size: cover;
     width: 100%;
@@ -140,7 +140,7 @@ body{
 }
 
 .aboutus__img{
-    background-image: url('./img/blueberries-1867398_640.jpg');
+    background-image: url('/img/blueberries-1867398_640.jpg');
     width: 400px;
     min-width: 400px;
     height: 400px;
