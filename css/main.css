@@ -258,25 +258,25 @@ body{
   }
 
 .monday{
-    background-image: url('./img/1.jpg');
+    background-image: url('../img/1.jpg');
 }
 .tuesday{
-    background-image: url('./img/2.jpg');
+    background-image: url('../img/2.jpg');
 }
 .wednesday{
-    background-image: url('./img/3.jpg');
+    background-image: url('../img/3.jpg');
 }
 .thursday{
-    background-image: url('./img/4.jpg');
+    background-image: url('../img/4.jpg');
 }
 .friday{
-    background-image: url('./img/5.jpg');
+    background-image: url('../img/5.jpg');
 }
 .saturday{
-    background-image: url('./img/6.jpg');
+    background-image: url('../img/6.jpg');
 }
 .sunday{
-    background-image: url('./img/7.jpg');
+    background-image: url('../img/7.jpg');
 }
 
 
