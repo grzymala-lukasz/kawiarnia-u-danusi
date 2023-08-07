@@ -23,8 +23,6 @@ handleCurrentYear();
 
 let section = document.querySelectorAll('section')
 let navLinks = document.querySelectorAll('.nav_scroll')
-let off = document.querySelector('.aboutus_click')
-let home = document.querySelector('.home_click')
 
 window.onscroll = () => {
 
